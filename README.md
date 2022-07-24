@@ -5,6 +5,16 @@ Interested in:
 - Visible Light Communciation
 - Machine Learning
 
-![](https://github-readme-stats.vercel.app/api?username=lj1ang) 
+<table>
+<tr>
+<td style = "width: 50%;">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lj1ang&layout=compact)
+[![TOMMY's github stats](https://github-readme-stats.vercel.app/api?username=lj1ang&count_private=true&include_all_commits=true&hide_border=true&show_icons=true)](http://apex.linn.top/)
+
+</td>
+<td style = "width: 50%;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lj1ang&count_private=true&include_all_commits=true&hide_border=true&layout=compact)](http://apex.linn.top/)
+
+</td>
+</tr>
