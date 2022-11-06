@@ -4,6 +4,7 @@ Interested in:
 - Computer Version
 - Machine Learning
 
-![](https://github.com/Lj1ang/github-stats-transparent/blob/output/generated/languages.svg)
-![](https://github.com/Lj1ang/github-stats-transparent/blob/output/generated/overview.svg)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lj1ang)](https://github.com/anuraghazra/github-readme-stats)
+
 
