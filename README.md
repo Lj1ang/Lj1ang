@@ -1,5 +1,5 @@
 # Hey! :wave:
-I'm Lj1ang, a PhD student in University of Illinois Chicago  
+I'm Lei, a PhD student in University of Illinois Chicago  
 Interested in:
 - Large Language Model
 
